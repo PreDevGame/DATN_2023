@@ -1,0 +1,4 @@
+1) nhị phân hóa hình ảnh
+2) trích xuất các đường viền (Canny + tìm đường viền)
+3) đối với mỗi đường bao, hãy tính hình chữ nhật có diện tích tối thiểu chứa nó (nó là một chức năng của openCV)
+4) kích thước tính bằng pixel của hình chữ nhật (rotatedRect) tỷ lệ thuận với kích thước thực của đối tượng
