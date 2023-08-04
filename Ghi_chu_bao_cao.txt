@@ -1,0 +1,17 @@
+04/08/2023
+
+
+Ghi chú báo cáo:
+
+	Thư viện truyền thông như thế nào
+	HMI xử lý nhập timer
+	Sơ đồ kết nối python xử lý ảnh
+	Hình ảnh xử lý ảnh
+	Mục lục tự động
+	Tất cả thành viên đều biết rõ nguyên lý, cách vận hành mô hình
+	ppt không để chữ, đưa nhiều sơ đồ nguyên lý, sơ đồ giải thuật
+	Đưa gì trên ppt thì phải giải thích được
+	hoàn thành ưu nhược điểm
+	Đưa hình hạn chế người
+	Đề xuất ra nhiều phương án dự phòng
+	
